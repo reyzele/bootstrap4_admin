@@ -1,3 +1,3 @@
 # Project
 
-[DEMO](https://vveksler.github.io/bootstrap_site/)
+[DEMO](https://vveksler.github.io/bootstrap4_admin/)
